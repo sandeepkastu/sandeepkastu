@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandeep kasturi
 - 👀 I’m interested in Thinking
 - 🌱 I’m currently learning Full stack Developement
-- 💞️ I’m looking to collaborate on backend or frontend
+- 💞️ I’m looking to collaborate on backend development or frontend
 - 📫 How to reach me -->  sandeep.kastu@gmail.com
 
 <!---
